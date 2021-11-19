@@ -1,1 +1,1 @@
-redirect_to '/app/views/customer/home.html.erb'
+redirect_to "/app/views/customer/home.html.erb"
